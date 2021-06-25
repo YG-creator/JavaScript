@@ -1,0 +1,38 @@
+script 태그
+event : on~속성, 상호작용
+console : 만들어진 웹사이트를 사용하여 코딩
+datatype
+변수 : var name
+
+css : 꾸며주기
+1. span 태그 : 효과를 주고싶은곳에 위치
+2. style 속성 : 한개씩 바꿀때 사용, body에 위치
+3. style tag : 한번에 바꿀때 사용,head에 위치
+4. selector
+class : .name , 그룹핑, 광범위함 / id : #name , 식별 , 예외처리
+
+프로그램 : 순서
+비교연산자 (===)
+조건문 : if(){}, else{}
+반복문
+배열 : [ ],index
+함수 
+객체 : 함수 정리정돈
+파일로 쪼개기 : src = "name.js" : 모든 페이지에 함수 공용 가능
+라이브러리  : jQuery,cdn  함수공유
+UI
+API
+
+project 해보셈
+
+검색어 추천
+1. document
+2. DOM (document보다 큰거)
+3. window (웹페이지)
+4. ajax(정보변경,현대적앱)
+5. cookie(사용자 개인화 서비스)
+6. offline web application(오프라인)
+7. webRTC(화상통신)
+speech API(음성정보전달)
+webGL(게임)
+webVR(가상)
